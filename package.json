@@ -7,7 +7,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
+  "bin": {"@ark_97/cli-number-guessing-game": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
